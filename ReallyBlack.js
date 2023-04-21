@@ -1,0 +1,1 @@
+{"Accent":"#595959","Segment":"#010101","Main":"#060606","Text":"#ffffff","Subtext":"#b3b3b3","Card":"#000000","BorderRadius":"1","BorderRadiusUnit":"em","Controls":"Side","Presets":"","Margins":"1","MarginsUnit":"em","CustomFontEnabled":false}
