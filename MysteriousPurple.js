@@ -1,1 +1,1 @@
-{"Accent":"#42097b","Segment":"#0b0212","Main":"#0f0218","Text":"#ffffff","Subtext":"#b3b3b3","Card":"#49066a","BorderRadius":"1","BorderRadiusUnit":"em","Controls":"Side","Presets":"","Margins":"1","MarginsUnit":"em","CustomFontEnabled":false}
+{"Accent":"#380a66","Segment":"#0b0212","Main":"#07010e","Text":"#ffffff","Subtext":"#b3b3b3","Card":"#49066a","BorderRadius":"1","BorderRadiusUnit":"em","Controls":"Side","Presets":"","Margins":"1","MarginsUnit":"em","CustomFontEnabled":false,"FontURL":""}
